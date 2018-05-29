@@ -1,3 +1,4 @@
+*A primer designing tool for miRNA*
 # miRNA-Primer-Designing-Tool
 Designs forward, reverse and RT primers for miRNA
 
